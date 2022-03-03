@@ -1,2 +1,3 @@
-# ENPM809T
-The following link contains the code used as part of the homework assignments and the grand challenge as part of the course ENPM809T: Autonomous Robotics
+<div align="center">
+<h1>Autonomous Robtot to perform pick up multiple objects and moving to destination qavoiding</h1>
+</div>

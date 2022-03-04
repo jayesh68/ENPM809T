@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Object Delivery Autonomous 4 wheeled Robot</h1>
+<h1>Autonomous 4-wheeled Robot for Object Delivery </h1>
 </div>
 
 <h1> Project Overview </h1>

@@ -23,11 +23,16 @@ The theme of this project is to move three objects from a start location to a de
 <img src="https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/arrow_detect.gif"/>
 
 <h1>Gripper Control</h1>
-<h1>RObot Traversing a path with IMUs</h1>
-<h1>Object Tracking</h1>
-<h1>Robot Teleoperation</h1>
-<h1>Picking up Object</h1>
+https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/arrow_detect.gif
 
+<h1>Traversing a Rectangular path using IMU feedback</h1>
+<img src="https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/imu.gif"/>
+
+<h1>Object Tracking</h1>
+<img src="https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/objecttrack.gif"/>
+
+<h1>Object detection & Grasping</h1>
+<img src="https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/objectgrasp.gif"/>
 
 <h1>Project tasks</h1>
 <ul>

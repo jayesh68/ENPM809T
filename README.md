@@ -20,6 +20,8 @@ The theme of this project is to move three objects from a start location to a de
 <img src="https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/color_seg.gif"/>
 
 <h1>Arrow Detection</h1>
+<img src="https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/arrow_detect.gif"/>
+
 <h1>Gripper Control</h1>
 <h1>RObot Traversing a path with IMUs</h1>
 <h1>Object Tracking</h1>

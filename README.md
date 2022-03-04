@@ -16,7 +16,8 @@ The theme of this project is to move three objects from a start location to a de
   <li>To perform facial detection before dropping the part at the destination location.</li>
 </ul>
 
-<h1>Color segmentation to reconize objects of a specific color.</h1>
+<h1>Object Detection using Color Segmentation.</h1>
+<img src="https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/color_seg.gif"/>
 
 <h1>Arrow Detection</h1>
 <h1>Gripper Control</h1>
@@ -28,9 +29,10 @@ The theme of this project is to move three objects from a start location to a de
 
 <h1>Project tasks</h1>
 <ul>
-<li>Color Segmentation: https://youtu.be/xaZ8mgaKYL4</li>
-<li>Arrow Detection: https://youtu.be/xXvt_2zhLkw</li>
-<li>Robot Teleoperation: https://youtu.be/vdTHJ5BlsSI</li>
-<li>Grasping Object</li>
-<li>Complete functioning</li>
+<li>Tracking objects of a specific color: https://youtu.be/SpYFO3OXIGM</li>
+<li>Arrow Detection: https://youtu.be/hO0ZsEh3JPc</li>
+<li>Robot Teleoperation: https://youtu.be/RtUdP0ZYg34</li>
+<li>Grasping Object: https://youtu.be/_i6_aGnBsCc</li>
+<li>Object Tracker: https://youtu.be/N8Ya9qugIm4</li>
+<li>Complete functioning: https://youtu.be/tX6Y6RUqlSI</li>
 </ul>

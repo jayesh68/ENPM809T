@@ -22,9 +22,6 @@ The theme of this project is to move three objects from a start location to a de
 <h1>Arrow Detection</h1>
 <img src="https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/arrow_detect.gif"/>
 
-<h1>Gripper Control</h1>
-https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/arrow_detect.gif
-
 <h1>Traversing a Rectangular path using IMU feedback</h1>
 <img src="https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/imu.gif"/>
 
@@ -34,7 +31,7 @@ https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/arrow_detect.gif
 <h1>Object detection & Grasping</h1>
 <img src="https://github.com/jayesh68/Real-Time-Autnomous-Robot/blob/main/objectgrasp.gif"/>
 
-<h1>Project tasks</h1>
+<h1>Project Videos</h1>
 <ul>
 <li>Tracking objects of a specific color: https://youtu.be/SpYFO3OXIGM</li>
 <li>Arrow Detection: https://youtu.be/hO0ZsEh3JPc</li>
